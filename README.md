@@ -178,8 +178,8 @@ Building scalable APIs, event-driven systems and modern web applications.
 <p align="center">
 
 <a href="https://www.codechef.com/users/its_me_jivan93">CodeChef</a> •
-<a href="YOUR_LEETCODE">LeetCode</a> •
-<a href="https://auth.geeksforgeeks.org/user/jivanparatpure2002/practice">GeeksforGeeks</a>
+<a href="https://leetcode.com/u/jivanthegreat/">LeetCode</a> •
+<a href="https://www.geeksforgeeks.org/profile/jivanparatpure2002/">GeeksforGeeks</a>
 
 </p>
 
