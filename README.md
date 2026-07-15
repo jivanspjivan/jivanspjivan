@@ -1,224 +1,230 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Jivan%20Paratpure&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Node.js%20%7C%20Kafka%20%7C%20PostgreSQL&descAlignY=60&animation=fadeIn"
-    alt="Jivan Paratpure — Software Engineer"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Jivan%20Paratpure&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20|%20Node.js%20|%20React%20|%20Kafka%20|%20PostgreSQL&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<!-- <h2 align="center">Backend Software Engineer</h2> -->
+<h2 align="center">
+Software Engineer
+</h2>
 
 <p align="center">
-  I build scalable REST APIs, event-driven systems and developer automation tools.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jivanparatpure/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jivanparatpure2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://portfolio-frontend-v0.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+Building scalable APIs, event-driven systems and modern web applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jivanspjivan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+<a href="https://www.linkedin.com/in/jivanparatpure/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jivanparatpure2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-frontend-v0.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jivanspjivan&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- Software Engineer with **1.5+ years of experience**
-- Backend-focused developer working with **Node.js, Express.js and SQL/NoSQL databases**
-- Experienced in building **REST APIs, authentication systems and asynchronous workflows**
-- Hands-on with **Kafka, PostgreSQL, MongoDB and MySQL**
-- Built applications using **GitHub OAuth, webhooks, Slack APIs and JWT authentication**
-- Solved **1200+ DSA problems** across competitive-programming platforms
-- Currently strengthening **System Design, Docker and Kubernetes**
-- Available as an **immediate joiner**
+🚀 Software Engineer with **1.5+ years of experience** building scalable backend services and full-stack web applications.
+
+- 💼 Experience with production-grade REST APIs
+- ⚡ Strong in **Node.js, Express.js, React.js**
+- 🔥 Hands-on with **Kafka, PostgreSQL, MongoDB & MySQL**
+- 🔐 Built authentication using **JWT & GitHub OAuth**
+- 📡 Worked with **Webhooks, Slack API & Event-driven Architecture**
+- 🧩 Solved **1200+ DSA problems**
+- 🌱 Currently learning **System Design, Docker & Kubernetes**
+- 📍 Immediate Joiner
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 GitHub Automation Bot
+## 🤖 GitHub Automation Bot
 
-An event-driven platform that automates GitHub repository workflows through configurable rules.
+> Event-driven GitHub automation platform that automates repository workflows.
 
-**Key capabilities**
+### Features
 
-- GitHub OAuth authentication
-- Repository connection and selection
-- Issue, pull-request and push webhook processing
-- Rule-based labels and automated comments
-- Slack notifications for repository events
-- Activity dashboard for webhook history
-- PostgreSQL persistence
+✅ GitHub OAuth Authentication
 
-**Tech stack:** `Node.js` · `Express.js` · `React` · `PostgreSQL` · `GitHub API` · `Slack API`
+✅ Repository Integration
+
+✅ GitHub Webhook Processing
+
+✅ Rule Engine
+
+✅ Slack Notifications
+
+✅ PostgreSQL Database
+
+✅ Activity Dashboard
+
+**Tech Stack**
+
+`Node.js` • `Express` • `React` • `GitHub API` • `Slack API` • `PostgreSQL`
 
 <p>
-  <a href="YOUR_GITHUB_AUTOMATION_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Automation Bot source"/>
-  </a>
-  <a href="YOUR_GITHUB_AUTOMATION_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live_Demo-Open-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="GitHub Automation Bot demo"/>
-  </a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-Open-00C7B7?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 💼 Job Listing Portal
+## 💼 Job Listing Portal
 
-A full-stack recruitment platform supporting candidate and recruiter workflows.
+> Full-stack recruitment platform connecting recruiters and job seekers.
 
-**Key capabilities**
+### Features
 
-- Secure JWT authentication
-- Job creation and application workflows
-- Candidate and recruiter dashboards
-- Resume upload and profile management
-- Search and filtering
-- Role-based access control
+✅ JWT Authentication
 
-**Tech stack:** `React` · `Node.js` · `Express.js` · `MongoDB`
+✅ Resume Upload
+
+✅ Recruiter Dashboard
+
+✅ Candidate Dashboard
+
+✅ Search & Filtering
+
+✅ Role-based Access
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express` • `MongoDB`
 
 <p>
-  <a href="YOUR_JOB_PORTAL_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Job Listing Portal source"/>
-  </a>
-  <a href="YOUR_JOB_PORTAL_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live_Demo-Open-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Job Listing Portal demo"/>
-  </a>
+
+<a href="YOUR_JOB_REPO">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_JOB_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-Open-00C7B7?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 📄 Real-Time Invoice Platform
+## 📄 Real-Time Invoice Platform
 
-An invoice-management system using asynchronous event processing for reliable downstream workflows.
+> Invoice generation platform built with asynchronous event-driven architecture.
 
-**Key capabilities**
+### Features
 
-- Invoice creation and management APIs
-- JWT-based authentication
-- PDF invoice generation
-- Kafka-based event publishing
-- Independent notification consumer
-- MongoDB and relational-database integration
-- Scheduled background processing
+✅ Invoice Generation APIs
 
-**Tech stack:** `Node.js` · `Express.js` · `Kafka` · `MongoDB` · `PostgreSQL`
+✅ Kafka Event Streaming
+
+✅ PDF Generation
+
+✅ Notification Service
+
+✅ JWT Authentication
+
+**Tech Stack**
+
+`Node.js` • `Kafka` • `MongoDB` • `PostgreSQL`
 
 <p>
-  <a href="YOUR_INVOICE_PLATFORM_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Invoice Platform source"/>
-  </a>
-  <a href="YOUR_INVOICE_PLATFORM_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live_Demo-Open-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Invoice Platform demo"/>
-  </a>
+
+<a href="YOUR_INVOICE_REPO">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-## 🛠️ Technical Skills
-
-### Backend and Databases
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,postgres,mongodb,mysql" alt="Backend and database technologies"/>
-</p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,postgres,mysql,kafka,docker,git,github,postman,java,javascript,vscode,linux"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,materialui" alt="Frontend technologies"/>
-</p>
-
-### Tools and Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,java" alt="Development tools"/>
 </p>
 
 ---
 
-## 🏆 Problem Solving
+# 🏆 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA_Problems-1200%2B-2F81F7?style=for-the-badge" alt="1200+ DSA problems"/>
-  <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 star"/>
+
+<img src="https://img.shields.io/badge/1200%2B-DSA%20Problems-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef"/>
+
 </p>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/its_me_jivan93">
-    <img src="https://img.shields.io/badge/CodeChef-View_Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef profile"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jivanparatpure2002/practice">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile"/>
-  </a>
-  <a href="YOUR_LEETCODE_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
-  </a>
-</p>
 
----
+<a href="https://www.codechef.com/users/its_me_jivan93">CodeChef</a> •
+<a href="YOUR_LEETCODE">LeetCode</a> •
+<a href="https://auth.geeksforgeeks.org/user/jivanparatpure2002/practice">GeeksforGeeks</a>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=jivanspjivan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Jivan's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jivanspjivan&theme=tokyonight&hide_border=true"
-    alt="Jivan's GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="430"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivanspjivan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most-used languages"
-  />
 </p>
 
 ---
 
-## 🤝 Contact
+# 📈 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:jivanparatpure2002@gmail.com">
-    <strong>Email</strong>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/jivanparatpure/">
-    <strong>LinkedIn</strong>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://portfolio-frontend-v0.onrender.com/">
-    <strong>Portfolio</strong>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jivanspjivan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jivanspjivan&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <em>Building reliable backend systems, useful developer tools and products that solve real problems.</em>
+
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivanspjivan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:jivanparatpure2002@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/jivanparatpure/">💼 LinkedIn</a> •
+<a href="https://portfolio-frontend-v0.onrender.com/">🌐 Portfolio</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>
+I enjoy building scalable software, backend systems and developer tools that solve real-world problems.
+</i>
+
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F2027,50:203A43,100:2C5364&section=footer"
-    alt=""
-  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0F2027,50:203A43,100:2C5364"/>
+
 </p>
