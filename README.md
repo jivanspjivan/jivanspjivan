@@ -1,12 +1,15 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jivan%20Paratpure&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Node.js%20%7C%20React%20%7C%20Kafka&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Jivan%20Paratpure&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Backend%20Software%20Engineer%20|%20Node.js%20|%20Kafka%20|%20React%20|%20PostgreSQL&descAlignY=60"/>
 </p>
 
-<h2 align="center">Backend Software Engineer • Full Stack Developer</h2>
+<h2 align="center">
+Backend Software Engineer
+</h2>
 
 <p align="center">
-Building scalable REST APIs, event-driven systems and modern web applications.
+Building scalable APIs, event-driven systems and developer-focused applications.
 </p>
 
 <p align="center">
@@ -25,27 +28,21 @@ Building scalable REST APIs, event-driven systems and modern web applications.
 
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jivanspjivan&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
 - 💼 **1.5+ Years** of Software Engineering experience
-- 🚀 Backend-focused Full Stack Developer
-- ⚡ Built scalable APIs using **Node.js & Express**
-- 🔥 Hands-on with **Kafka, PostgreSQL, MongoDB & MySQL**
-- 🧩 Solved **1200+ DSA problems**
+- ⚡ Backend Engineer specializing in **Node.js & Express**
+- 🚀 Built production-ready REST APIs and event-driven applications
+- 🔥 Experience with **Kafka, PostgreSQL, MongoDB & MySQL**
+- 🧩 Solved **1200+ DSA problems** across LeetCode, GeeksforGeeks & CodeChef
 - 🌱 Currently learning **System Design, Docker & Kubernetes**
-- 📍 Immediate Joiner
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,reactivex,mongodb,postgres,mysql,kafka,docker,git,github,postman,java,javascript,vscode,linux"/>
-
-</p>
+- 📍 **Immediate Joiner**
 
 ---
 
@@ -53,102 +50,129 @@ Building scalable REST APIs, event-driven systems and modern web applications.
 
 ## 🤖 GitHub Automation Bot
 
-> Event-driven GitHub automation platform.
+**Event-driven automation platform for GitHub repositories.**
 
-### Highlights
+✅ GitHub OAuth Authentication
 
-- GitHub OAuth Authentication
-- Webhook Processing
-- Slack Notifications
-- Rule Engine
-- PostgreSQL
-- Activity Dashboard
+✅ Webhook Event Processing
 
-**Tech:** Node.js • Express • React • PostgreSQL • GitHub API • Slack API
+✅ Slack Notifications
 
-➡️ **GitHub:** *(Add Repository Link)*
+✅ Rule-based Automation
+
+✅ PostgreSQL
+
+✅ Live Activity Dashboard
+
+**Tech Stack**
+
+`Node.js` • `Express` • `React` • `GitHub API` • `Slack API` • `PostgreSQL`
+
+🔗 **GitHub:** Repository Link
 
 ---
 
 ## 💼 Job Listing Portal
 
-Modern hiring platform for recruiters and candidates.
+**Full-stack recruitment platform for companies and candidates.**
 
-### Highlights
+✅ JWT Authentication
 
-- JWT Authentication
-- Resume Upload
-- Recruiter Dashboard
-- Candidate Dashboard
-- Search & Filters
+✅ Resume Upload
 
-**Tech:** React • Node.js • Express • MongoDB
+✅ Recruiter Dashboard
 
-➡️ **Live Demo:** *(Add Link)*
+✅ Candidate Dashboard
 
-➡️ **GitHub:** *(Add Link)*
+✅ Search & Filters
+
+✅ Role-based Access
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express` • `MongoDB`
+
+🌐 Live Demo
+
+🔗 GitHub Repository
 
 ---
 
 ## 📄 Invoice Generation Platform
 
-Backend platform using asynchronous event-driven architecture.
+**Scalable invoice management system using asynchronous processing.**
 
-### Highlights
+✅ Kafka Event Streaming
 
-- Kafka Messaging
-- PDF Invoice Generation
-- Notification Service
-- REST APIs
-- Authentication
+✅ PDF Invoice Generation
 
-**Tech:** Node.js • Kafka • MongoDB • PostgreSQL
+✅ Notification Service
 
-➡️ **GitHub:** *(Add Link)*
+✅ REST APIs
+
+✅ JWT Authentication
+
+**Tech Stack**
+
+`Node.js` • `Kafka` • `MongoDB` • `PostgreSQL`
+
+🔗 GitHub Repository
 
 ---
 
-# 📈 GitHub Analytics
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jivanspjivan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jivanspjivan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivanspjivan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,postgres,mysql,kafka,docker,git,github,postman,java,javascript,vscode,linux"/>
 
 </p>
 
 ---
 
-# 🏆 Coding
+# 📊 GitHub Analytics
 
-- ⭐ 1200+ DSA Problems Solved
-- ⭐ CodeChef 3★
-- ⭐ LeetCode
-- ⭐ GeeksforGeeks
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jivanspjivan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jivanspjivan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivanspjivan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Coding Profiles
+
+🏅 **1200+ DSA Problems Solved**
+
+⭐ CodeChef **3★**
+
+🔹 LeetCode
+
+🔹 GeeksforGeeks
 
 ---
 
 # 🤝 Let's Connect
 
-📧 **Email:** jivanparatpure2002@gmail.com
+📧 **Email**  
+jivanparatpure2002@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/jivanparatpure/
+💼 **LinkedIn**  
+https://www.linkedin.com/in/jivanparatpure/
 
-🌐 **Portfolio:** https://portfolio-frontend-v0.onrender.com/
+🌐 **Portfolio**  
+https://portfolio-frontend-v0.onrender.com/
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jivanspjivan&label=Profile%20Views&color=0e75b6&style=flat"/>
+<i>"I enjoy building scalable backend systems, developer tools and event-driven applications."</i>
 </p>
-
-<h3 align="center">
-Always Building • Always Learning 🚀
-</h3>
