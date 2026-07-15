@@ -4,11 +4,11 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Jivan%20Paratpure&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Node.js%20%7C%20Kafka%20%7C%20PostgreSQL&descAlignY=60&animation=fadeIn"
-    alt="Jivan Paratpure — Backend Software Engineer"
+    alt="Jivan Paratpure — Software Engineer"
   />
 </p>
 
-<h2 align="center">Backend Software Engineer</h2>
+<!-- <h2 align="center">Backend Software Engineer</h2> -->
 
 <p align="center">
   I build scalable REST APIs, event-driven systems and developer automation tools.
